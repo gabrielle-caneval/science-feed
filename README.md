@@ -48,6 +48,8 @@ Aucune licence de réutilisation n’est accordée pour le code de ce dépôt. L
 
 ## Démonstration vidéo
 
-[Voir la démonstration de Science Feed](https://www.gabriellecaneval.fr/media/science-feed-demo.mp4) · [Parcours et conditions](docs/demo.md)
+[![Voir la démonstration Science Feed](docs/media/science-feed-demo.png)](docs/media/science-feed-demo.mp4)
+
+[Lire ou télécharger la vidéo MP4 (31 secondes)](docs/media/science-feed-demo.mp4) · [Sous-titres français](docs/media/science-feed-demo.fr.vtt) · [Parcours et conditions](docs/demo.md)
 
 La vidéo montre le choix IA & Machine Learning, le flux, la sauvegarde d’un article et sa présence dans la bibliothèque, puis une recherche « graph neural networks » qui a renvoyé 15 résultats réels pendant la capture. Le compte est un compte local de test. Le flux est préparé avec refillInterest, via les connecteurs arXiv et Semantic Scholar du projet ; aucune réponse API n’est simulée. La disponibilité et les quotas des sources peuvent faire varier les résultats.
